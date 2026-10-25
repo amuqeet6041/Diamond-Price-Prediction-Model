@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# model.pkl is intentionally committed so Streamlit Cloud can load it.
+# Do NOT add model.pkl here.

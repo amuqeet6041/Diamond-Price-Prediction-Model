@@ -2,7 +2,7 @@
 
 Predicts the price (USD) of a diamond from its physical and quality specifications using **K-Fold Cross Validation** and 5 regression algorithms.
 
-**Live App:** [Diamond Price Predictor](<PASTE_LINK_HERE>)
+**Live App:** [Diamond Price Predictor](<https://diamond-price-prediction-model-the-muqeet.streamlit.app/>)
 
 ---
 
